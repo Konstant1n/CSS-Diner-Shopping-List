@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Weate",
+				"Weather"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"li",
+				"livereload	Insert livereload.js script"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"lin",
+				"link	(Preferences.sublime-settings)"
+			],
+			[
+				"re",
+				"reindent"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"subs",
+				"mb_substr"
+			],
+			[
+				"whi",
+				"while	while …"
+			],
+			[
+				"get",
+				"get_field"
+			],
+			[
+				"for",
+				"foreach	<?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"fild",
+				"field"
+			],
+			[
+				"product",
+				"productWood"
+			],
+			[
+				"togl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"post",
+				"post_title	(functions.php)"
+			],
+			[
+				"endfo",
+				"endforeach〔keyword〕"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"t",
+				"tags"
+			],
+			[
+				"getthete",
+				"get_the_title〔function〕"
+			],
+			[
+				"theost",
+				"the_post〔function〕"
+			],
+			[
+				"the",
+				"the_post〔function〕"
+			],
+			[
+				"hac",
+				"have_posts〔function〕"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"WP_q",
+				"WP_Query"
+			],
+			[
+				"regist",
+				"register_post_type	Register Post Type All Options"
+			],
+			[
+				"funn",
+				"function〔keyword〕"
+			],
+			[
+				"registerpost",
+				"register_post_type〔function〕"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"comments",
+				"comments_template"
+			],
+			[
+				"ph",
+				"php	<?php … ?>"
+			],
+			[
+				"getcommen",
+				"get_comments_number"
+			],
+			[
+				"theta",
+				"the_tags"
+			],
+			[
+				"theti",
+				"the_title"
+			],
+			[
+				"theper",
+				"the_permalink〔function〕"
+			],
+			[
+				"thepost",
+				"the_post_thumbnail〔function〕"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"endf",
+				"endforeach〔keyword〕"
+			],
+			[
+				"req",
+				"require〔keyword〕"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"wp_nav",
+				"wp_nav_menu	wp_nav_menu All Options"
+			],
+			[
+				"thper",
+				"the_permalink"
+			],
+			[
+				"the_co",
+				"the_content"
+			],
+			[
+				"end",
+				"endwhile〔keyword〕"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"get_h",
+				"get_header"
+			],
+			[
+				"get_te",
+				"get_template_directory"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"fun",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"len",
+				"length	String"
+			],
+			[
+				"qt",
+				"qtyField"
+			],
+			[
+				"slick",
+				"slick-theme.css"
+			],
+			[
+				"jQ",
+				"jQuery.map	jQuery.map"
+			],
+			[
+				"he",
+				"href	Attr"
+			],
+			[
+				"cla",
+				"className	Element"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"getElem",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"lo",
+				"logo-dark.svg"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"k",
+				"kyiv.jpg	w:550 h:237"
+			],
+			[
+				"la",
+				"lable.jpg	w:802 h:237"
+			],
+			[
+				"wo",
+				"worktop.jpg	w:548 h:237"
+			],
+			[
+				"dev",
+				"development.svg"
+			],
+			[
+				"s",
+				"scroll.svg"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"ita",
+				"italic"
+			],
+			[
+				"get_style",
+				"get_stylesheet_directory"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"_",
+				"_e"
+			],
+			[
+				"addtheme",
+				"add_theme_support"
+			],
+			[
+				"wp_deq",
+				"wp_dequeue_style"
+			],
+			[
+				"gettemplate",
+				"get_template_part"
+			],
+			[
+				"mi",
+				"miw	min-width"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"regi",
+				"register_post_type	Register Post Type All Options"
+			],
+			[
+				"the_pos",
+				"the_post_thumbnail〔function〕"
+			],
+			[
+				"regis",
+				"register_post_type	Register Post Type All Options"
+			],
+			[
+				"in",
+				"init"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 198.0,
+		"last_filter": "INSTALL",
+		"selected_items":
+		[
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"TER",
+				"Terminal: Open"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: tag",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"set syntax: j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax: l",
+				"Set Syntax: LESS"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Tidy CSS",
+				"Tidy CSS (Highest Compression)"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 173.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/Beetroot/worki/5_lesson/css/style.css",
+		"/D/Beetroot/worki/5_lesson/index.html",
+		"/D/Beetroot/worki/5_lesson/starter-master.zip",
+		"/D/Beetroot/worki/4_lessons/style.css",
+		"/D/Beetroot/worki/4_lessons/index.html",
+		"/D/Beetroot/worki/smshinthtml5/index.html",
+		"/D/Beetroot/worki/smshinthtml5/css/style.css",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/User/auto_save.sublime-settings",
+		"/C/Users/sudo/Desktop/1/index.html",
+		"/C/Users/sudo/Desktop/1/style.css",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/sudo/Videos/11",
+		"/D/Beetroot/Lesson 2 – Setting Workflow » Академія Beetroot/SublimeText3/Data/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/js/product-filter.js",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/css/filter.scss",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/functions.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/css/filter.css",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/woocommerce/content-single-product.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/woocommerce/wishlist-view.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/woocommerce/single-product/meta.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/woocommerce/archive-product.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/footer.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/header.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/templates/my-favourite-page.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/css/matrix.scss",
+		"/D/SublimeText3/Data/Packages/User/LiveReload.sublime-settings",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/plugins/yith-woocommerce-wishlist/templates/wishlist.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/plugins/yith-woocommerce-wishlist/templates/wishlist-view.php",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/js/global.js",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-content/themes/detra/woocommerce/content-single-product-OLD.php",
+		"/D/SublimeText3/Data/Packages/LiveReload/LiveReload.sublime-settings",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/sftp-config.json",
+		"/D/Google_Drive/Freelance/_Beetroot/Detro/site/wp-config.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/functions.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/custom-home-page.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/index.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/sidebar.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/page.php",
+		"/D/SublimeText3/Data/Packages/User/Terminal.sublime-settings",
+		"/D/UniServerZ/www/jetro/wp-config.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/single.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/scss/style.scss",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/404.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/scss/foundation.scss",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/footer.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/header.php",
+		"/D/UniServerZ/www/spacious/wp-content/themes/spacious/inc/functions.php",
+		"/D/UniServerZ/www/php/index.html",
+		"/D/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/UniServerZ/www/php/index.php",
+		"/D/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/UniServerZ/www/php/blog.php",
+		"/D/UniServerZ/www/php/send.php",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/exam2/creative/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/exam2/creative/scss/style.scss",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/exam2/creative/scss/foundation/_settings.scss",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/exam2/creative/prepros.cfg",
+		"/D/Google_Drive/UWC/EUWC/final/src/style/_typo.scss",
+		"/D/Google_Drive/UWC/EUWC/final/src/style/_icons.scss",
+		"/D/Google_Drive/UWC/EUWC/final/gulpfile.js",
+		"/D/Google_Drive/UWC/EUWC/final/src/style/_vendor.scss",
+		"/D/Google_Drive/UWC/EUWC/final/src/style/_var.scss",
+		"/D/Google_Drive/UWC/EUWC/final/src/img/icons.svg",
+		"/D/Google_Drive/UWC/EUWC/final/src/js/main.js",
+		"/D/Google_Drive/UWC/EUWC/final/src/style/_slick.scss",
+		"/D/Google_Drive/UWC/EUWC/final/src/index.html",
+		"/D/Google_Drive/UWC/EUWC/final/src/style/style.scss",
+		"/D/Google_Drive/UWC/EUWC/Final/src/index.html",
+		"/D/Google_Drive/UWC/EUWC/Final/gulpfile.js",
+		"/D/Google_Drive/UWC/EUWC/Final/package.json",
+		"/D/Google_Drive/UWC/EUWC/Final/bower.json",
+		"/D/Google_Drive/UWC/EUWC/Final/src/js/main.js",
+		"/D/Google_Drive/UWC/EUWC/Final/.gitignore",
+		"/D/Google_Drive/UWC/EUWC/Final/src/style/_vendor.scss",
+		"/D/Google_Drive/UWC/EUWC/Final/build/css/style.css",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/front-page.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/home.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/page-custom.php",
+		"/D/UniServerZ/www/spacious/wp-content/themes/spacious/inc/header-functions.php",
+		"/D/UniServerZ/vhosts/hebrew/wp-config.php",
+		"/D/UniServerZ/www/jetro/wp-content/themes/jetro/style.css",
+		"/D/UniServerZ/www/spacious/wp-content/themes/twentyfifteen/index.php",
+		"/D/UniServerZ/www/spacious/wp-content/themes/twentythirteen/header.php",
+		"/D/UniServerZ/www/spacious/wp-content/themes/twentythirteen/image.php",
+		"/D/UniServerZ/www/spacious/wp-content/themes/twentyfifteen/footer.php",
+		"/D/UniServerZ/www/spacious/wp-content/themes/twentyfifteen/header.php",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/22-css-frameworks/jetro/index.html",
+		"/D/SublimeText3/Data/Packages/User/Sound.sublime-settings",
+		"/D/SublimeText3/Data/Packages/Sound/Sound.sublime-settings",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/22-css-frameworks/jetro/scss/style.scss",
+		"/D/Google_Drive/Freelance/2015-10-15-perfect-pavers/site/wp-content/themes/yoo_gusto_wp/free-estimate-form.html",
+		"/D/Google_Drive/Freelance/2015-10-15-perfect-pavers/site/sftp-config.json",
+		"/D/Google_Drive/Freelance/2015-10-15-perfect-pavers/psd/logo.svg",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/19-jquey-sliders/product-card/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/19-jquey-sliders/product-card/css/style.css",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/19-jquey-sliders/product-card/js/main.js",
+		"/D/SublimeText3/Data/Packages/User/JSON.sublime-settings",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/starter/index.html",
+		"/D/SublimeText3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/starter/css/style.css",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/14-psd-to-html/gulpfile.js",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/starter/js/main.js",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/19-jquey-sliders/our-team/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/19-jquey-sliders/our-team/js/main.js",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/14-psd-to-html/design-lab/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/js",
+		"/D/TEMP/woocommerce-customer-order-csv-export/woocommerce-customer-order-csv-export/includes/class-wc-customer-order-csv-export-compatibility.php",
+		"/D/TEMP/woocommerce-customer-order-csv-export/woocommerce-customer-order-csv-export/changelog.txt",
+		"/D/TEMP/woocommerce-customer-order-csv-export/woocommerce-customer-order-csv-export/includes/class-wc-customer-order-csv-export-generator.php",
+		"/D/TEMP/woocommerce-customer-order-csv-export/woocommerce-customer-order-csv-export/includes/admin/class-wc-customer-order-csv-export-admin.php",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/09/vintage-bike/css/style.css",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/09/vintage-bike/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/09/vintage-bike/js/main.js",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/14-psd-to-html/package.json",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/09/gulpfile.js",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/09/package.json",
+		"/D/SublimeText3/Data/Settings/SideBarEnhancements.json",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/16-responsive/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/14-psd-to-html/design-lab/css/style.css",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/06/huge-search/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/13-photoshop/display/index.html",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/starter/css/layout.css",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/09/vintage-bike/css/layout.css",
+		"/D/Google_Drive/_BeetrootAcademy/2015_2/lessons/fluid-grids/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+			"",
+			"D:\\UniServerZ\\vhosts",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"degC",
+			"lisabon",
+			"default",
+			"600",
+			"font-size:",
+			"font-size: ;",
+			"auto_complete",
+			"auto",
+			"autocomplete",
+			"button",
+			".de-button,",
+			"_field('",
+			"wp_enqueue_style",
+			"<b>",
+			"20",
+			"10",
+			"$MetalFiled",
+			"Wood",
+			"wood",
+			"Wood",
+			"wood",
+			"Wood",
+			"MetalFiled",
+			"Wood",
+			"wood",
+			"Wood",
+			"wood",
+			"Wood",
+			"product_wood",
+			"$productWood",
+			"td",
+			"tr",
+			"show",
+			"name",
+			">\n",
+			"this",
+			" \n",
+			"this",
+			"h5",
+			"h4",
+			"filterGroup",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"[ group ]",
+			"value",
+			"data",
+			"brands",
+			"index",
+			"manageCheckbox",
+			"$filterDisplay",
+			"val",
+			"filter",
+			"group",
+			"data",
+			"createContent",
+			"$inner",
+			"),\n",
+			"Slide",
+			"Slider",
+			"	$labels = array(\n		'name'               => _x( 'Slider', 'post type general name', 'jetro' ),\n		'singular_name'      => _x( 'Slide', 'post type singular name', 'jetro' ),\n		'menu_name'          => _x( 'Slider', 'admin menu', 'jetro' ),\n		'name_admin_bar'     => _x( 'Slide', 'add new on admin bar', 'jetro' ),\n		'add_new'            => _x( 'Add New', 'Slide', 'jetro' ),\n		'add_new_item'       => __( 'Add New Slide', 'jetro' ),\n		'new_item'           => __( 'New Slide', 'jetro' ),\n		'edit_item'          => __( 'Edit Slide', 'jetro' ),\n		'view_item'          => __( 'View Slide', 'jetro' ),\n		'all_items'          => __( 'All Slides', 'jetro' ),\n		'search_items'       => __( 'Search Slider', 'jetro' ),\n		'parent_item_colon'  => __( 'Parent Slider:', 'jetro' ),\n		'not_found'          => __( 'No Slides found.', 'jetro' ),\n		'not_found_in_trash' => __( 'No Slides found in Trash.', 'jetro' )\n	);\n\n\n	$args = array(\n		'labels'             => $labels,\n        'description'        => __( 'Slider on home page.', 'jetro' ),\n		'public'             => true,\n		'show_ui'            => true,\n		'show_in_menu'       => true,\n		'rewrite'            => array( 'slug' => 'slide' ),\n		'capability_type'    => 'post',\n		'has_archive'        => false,\n		'hierarchical'       => false,\n		'menu_position'      => 5,\n		'supports'           => array( 'title', 'editor', 'thumbnail' )\n	);\n\n	register_post_type('slide', $args);\n",
+			", 'jetro'",
+			"_x",
+			"your-plugin-textdomain",
+			"Slider",
+			"Book",
+			"book",
+			"Book",
+			"books",
+			"Books",
+			"focal-point",
+			"enq",
+			"spacious_options",
+			"ba-post__img",
+			"img/img-placeholder.jpg",
+			"class=\"ba-widget__img\"",
+			"--fo",
+			"line_small.png",
+			"ba-post-type__img",
+			"-type",
+			"<div class=\"ba-post\">",
+			"ba-widget__title",
+			"titl",
+			"GET",
+			"_POST",
+			"button",
+			"beb",
+			"-small",
+			"ba-mt-medium",
+			"|",
+			"href=\"tel:+44 800 800 90\"",
+			"date",
+			"meta",
+			"background-image: url('../img/icons.svg');",
+			"background-repeat: no-repeat",
+			"icon-",
+			"icons/",
+			"255",
+			"ba-width-medium-1-3",
+			"ba-text-center-medium",
+			"700",
+			"$ff-second",
+			"ba-section__title ",
+			"ba-section__title ba",
+			"ba-section__title",
+			" ba-width-medium-1-2",
+			".arrow_box",
+			"ba-float-right-",
+			"	<section class=\"ba-section ba-story\">\n		<div class=\"ba-container\">\n			\n		</div>\n	</section>\n	<!-- /.ba-section ba-story -->\n\n",
+			"$container-padding-horizontal",
+			"				    <!-- BEGIN ba-service  -->\n				    <div class=\"ba-service\">\n			    		<div class=\"ba-service__icon\"></div>\n			    		<h3 class=\"ba-service__title\">Personal touch</h3>\n			    		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat purus in ferment uectetur tortor id, pharetra lorem.</p>\n\n				    </div>\n				    <!-- END ba-service -->\n",
+			"clean",
+			"cssmin",
+			"',",
+			"'",
+			"s.btoa",
+			"hebrew.illuminea-dev.com",
+			"illuminea-dev.com",
+			"div",
+			"$dir",
+			"js/",
+			"img/",
+			"sub-nav(",
+			"sub-nav()",
+			", ",
+			"</option>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"degC ",
+			"wi",
+			"ba-mt-small-up",
+			"				<?php 	if ( 'logo_image' == wr_ferado_theme_option( 'wr_logo_type' ) ) : ?>\n\n		<a class=\"site-logo\" href=\"<?php echo esc_url( home_url( '/' ) ); ?>\" rel=\"home\"><img src=\"<?php echo esc_url( wr_ferado_theme_option( 'wr_logo_image' ) ); ?>\" alt=\"<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>\"></a>\n\n	<?php else : ?>\n\n		<h1 class=\"site-title\"><a href=\"<?php echo esc_url( home_url( '/' ) ); ?>\" rel=\"home\"><?php bloginfo( 'name' ); ?></a></h1>\n\n	<?php endif; ?>\n",
+			"@primary-dark",
+			"@primary",
+			"the_post"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 102.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 252.0
+	},
+	"output.sftp":
+	{
+		"height": 164.0
+	},
+	"pinned_build_system": "",
+	"project": "4_lesson.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ven",
+				"src\\style\\_vendor.scss"
+			],
+			[
+				"style.css",
+				"14-psd-to-html\\design-lab\\css\\style.css"
+			],
+			[
+				"fuc",
+				"wp-content\\themes\\lowcost\\functions.php"
+			],
+			[
+				"va",
+				"wp-content\\themes\\lowcost\\less\\_vars.less"
+			],
+			[
+				"color",
+				"wp-content\\themes\\ferado\\inc\\ferado\\colors.php"
+			],
+			[
+				"fun",
+				"wp-content\\themes\\lowcost\\functions.php"
+			],
+			[
+				"glo",
+				"wp-content\\themes\\foundation\\js\\global.js"
+			],
+			[
+				"tem",
+				"wp-content\\themes\\foundation\\templates\\template-home.php"
+			],
+			[
+				"med",
+				"wp-content\\themes\\lambda\\less\\media-screens.less"
+			],
+			[
+				"post",
+				"wp-content\\themes\\lambda\\style.css"
+			],
+			[
+				"respond.js",
+				"wp-content\\themes\\lambda\\js\\plugins\\respond.js"
+			],
+			[
+				"tmp",
+				"wp-content\\themes\\lambda\\templates\\template-home.php"
+			],
+			[
+				"sty",
+				"wp-content\\themes\\lambda\\style.css"
+			],
+			[
+				"less",
+				"wp-content\\themes\\lambda\\less\\lambda.less"
+			],
+			[
+				"stl",
+				"wp-content\\themes\\lambda\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
